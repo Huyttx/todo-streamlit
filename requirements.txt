@@ -1,3 +1,6 @@
 streamlit
+<<<<<<< HEAD
 pandas
 numpy
+=======
+>>>>>>> 5b212ef (Cập nhật giao diện người dùng và chức năng mới)
